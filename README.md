@@ -1,5 +1,5 @@
-# Arrowsmith
-LG Arrowsmith 
+# LG 9 Arrowsmith
+Press **Ctrl** to open links on a new window 
 
 1. [Arrowsmith 1](https://static-generator.github.io/arrowsmith1/)
 2. [Arrowsmith 2](https://static-generator.github.io/arrowsmith2/)
